@@ -9,7 +9,7 @@
 
 ## 🎥 Video Walkthrough
 
-**[Click here to watch the full architecture demo on Loom](https://www.loom.com/share/YOUR_VIDEO_ID_HERE)**
+**[Click here to watch the full architecture demo on Loom](https://www.loom.com/share/b5515e72b3c649b7918e06e7a9ca4197)**
 
 ---
 
